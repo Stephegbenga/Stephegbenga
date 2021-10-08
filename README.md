@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Stephegbenga
 - 👀 I’m interested in ... api
 s
-- 🌱 I’m currently learning ... api
-s and chatot
-- 💞️ I’m looking to collaborate on ... api's and chatbot
+- 🌱 I’m an expert in api
+s and chatot development
+- 💞️ I’m looking to collaborate on ... api's, automations and chatbot
 - 📫 How to reach me ... adegbamiyestephen2018@gmail.com
 
 <!---
